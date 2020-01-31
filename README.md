@@ -9,5 +9,5 @@ docker run -d -p 4444:4444 -v /dev/shm:/dev/shm selenium/standalone-chrome:3.141
 
 
 # How to run
-python scrape_me.py urllib
-python scrape_me.py selenium
+* python scrape_me.py urllib
+* python scrape_me.py selenium
